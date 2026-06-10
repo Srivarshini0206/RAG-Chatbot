@@ -1,0 +1,6 @@
+{
+  "name": "PDF RAG Chatbot",
+  "description": "Upload a PDF document and ask questions related to its content using Retrieval-Augmented Generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
